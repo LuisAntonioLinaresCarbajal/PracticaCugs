@@ -6,7 +6,9 @@ Este es el proyecto para crear un sitio web responsivo completo solo con CSS.
 
 ## Authors
 
-- [@vidamrr](https://github.com/marcosrivasr?tab=repositories)
+
+  ![T-frame](https://user-images.githubusercontent.com/92198848/213885921-a31a94d2-4549-4419-9050-bf2aa9f3f3cf.png)
+
 
   
 ## Deployment
